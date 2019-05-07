@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Example</string>
+    <string name="buttonText">FORGOT PASSWORD</string>
+    <string name="buttonLogin">LOG IN</string>
+    <string name="checkboxText">Remember me</string>
+    <string name="usernameHint">Your Algonquin Email</string>
+    <string name="passwordHint">Your Password</string>
+
+</resources>
